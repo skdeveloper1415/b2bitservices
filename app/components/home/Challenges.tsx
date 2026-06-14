@@ -77,7 +77,7 @@ export default function Challenges() {
         <div className="mx-auto px-4 flex flex-col items-center text-center gap-2">
             <h2 className="text-md uppercase tracking-widest font-normal text-white">Challenge</h2>
             <SpinText
-            className="text-4xl md:text-2xl font-bold text-white max-w-3xl"
+            className="text-xl md:text-2xl font-bold text-white"
             text="Enterprises face complex challenges in a digital-first world."
             duration={1}
             stagger={0.03}

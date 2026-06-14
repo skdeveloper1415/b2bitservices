@@ -47,7 +47,7 @@ export default function Testimonial() {
    const swiperRef = useRef<any>(null);
   return (
     <>
-    <section className="relative overflow-hidden bg-[#050d15] py-0 px-20">
+    <section className="relative overflow-hidden bg-[#050d15] py-0 px-10 lg:px-20">
       {/* Heading */}
       
           <Swiper

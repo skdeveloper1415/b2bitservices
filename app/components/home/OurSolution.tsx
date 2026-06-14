@@ -38,7 +38,7 @@ const processSteps = [
 
 export default function OurSolution() {
   return (
-    <section className="relative overflow-hidden bg-[#050d15] py-24 px-20">
+    <section className="relative overflow-hidden bg-[#050d15] py-24 px-10 lg:px-20">
       {/* Background Pattern */}
       <div
         className="absolute inset-0 opacity-10"
